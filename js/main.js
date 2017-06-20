@@ -22,7 +22,6 @@ function initMap() {
       position: {lat:latitud, lng:longitud},
       animation: google.maps.Animation.DROP,
       map: map,
-      icon:"asset/img/bicycle.png"
     });
 
     map.setZoom(17);
