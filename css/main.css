@@ -15,7 +15,7 @@ button{
 	background-color: #faae27;
 	border: 0;
 	font-weight: 400;
-	border-radius: 2px;
+	border-radius: 4px;
 	font-family: "Raleway";
 	font-size: 15px;
 	display: block;
@@ -28,7 +28,7 @@ button:hover,button:focus{
       #origen,
       #destino {
         background-color: #fff;
-        font-family: Roboto;
+        font-family: 'Roboto';
         font-size: 15px;
         font-weight: 300;
         margin-left: 12px;
